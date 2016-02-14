@@ -1,0 +1,16 @@
+{
+  "title": "Stop NBA Redirect",
+  "name": "stop-nba-redirect",
+  "version": "0.0.1",
+  "description": "Stop NBA from redirecting you to local sites",
+  "main": "index.js",
+  "author": "Po-Hsiang Hao",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
