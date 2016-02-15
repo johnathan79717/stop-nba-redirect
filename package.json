@@ -2,7 +2,7 @@
   "title": "Stop NBA Redirect",
   "name": "stop-nba-redirect",
   "version": "0.0.1",
-  "description": "Stop NBA from redirecting you to local sites",
+  "description": "Stop NBA from redirecting to local sites (Taiwan only)",
   "main": "index.js",
   "author": "Po-Hsiang Hao",
   "engines": {
