@@ -1,4 +1,16 @@
-#Stop NBA Redirect
-With this add-on, when you navigate to http://nba.com, you will not be redirect to http://nba.udn.com.
+#Stop NBA Redirect V0.0.2
+It is hosted here: https://addons.mozilla.org/en-US/firefox/addon/stop-nba-redirect/ 
 
-Currently it only works if you're in Taiwan. If you want this to support your own country, please open an issue and tell me the url that you'll be redirected to. Thanks.
+With this add-on, when you navigate to http://nba.com, you will not be redirect to your countries' local sites.
+
+Supported countries:
+* Taiwan
+* Australia
+* UK
+* Philippines
+* Japan
+* Italy
+* France
+* Germany
+
+We plan to support more countries soon, but you can still contact me if you want your countries to be supported, so that I can prioritize. Thanks!
