@@ -8,6 +8,9 @@ var local_nba = [
     ["http://www.givemesport.com/nba?gr=www", "ukuw"],
     ["http://ph.nba.com/?gr=www", "philippinesuw"],
     ["http://www.nba.co.jp/?gr=www", "japanuw"],
+    ["http://www.gazzetta.it/Nba/?gr=www", "italyuw"],
+    ["http://www.lequipe.fr/Basket/Nba/?gr=www", "franceuw"],
+    ["http://www.spox.com/de/sport/ussport/nba/index.html?gr=www", "germanyuw"],
 ];
 
 function listener(event) {
