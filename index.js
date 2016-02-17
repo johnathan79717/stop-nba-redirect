@@ -22,7 +22,12 @@ function listener(event) {
         if(local_nba[i][0] === url) {
             var global_nba = "http://www.nba.com/gr/reflectIntl.html?page=www&dur=ses&gr=" + local_nba[i][1];
             subject.redirectTo(Services.io.newURI(global_nba, null, null));
+            break;
         }
     }
 }
 events.on("http-on-modify-request", listener);
+
+exports.onUnload = function() {
+    events.removeListener("http-on-modify-request", listener);
+}
