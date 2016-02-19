@@ -1,7 +1,7 @@
 {
   "title": "Stop NBA Redirect",
   "name": "stop-nba-redirect",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Stop NBA from redirecting to your countries' local sites",
   "main": "index.js",
   "author": "Po-Hsiang Hao",
